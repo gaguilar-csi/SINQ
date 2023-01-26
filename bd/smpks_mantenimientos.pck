@@ -1,6 +1,7 @@
 CREATE OR REPLACE PACKAGE smpks_mantenimientos IS
 
   -- Author  : gaguilar@csi
+  -- Prueba
   -- Created : 18/1/2023 10:36:27
   -- Purpose : Procedimientos y funciones de mantenimiento de esquema de seguridad de SINQ (SM)
   
